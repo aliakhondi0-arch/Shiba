@@ -1,0 +1,15 @@
+{
+  "videoReward": 100,
+  "textReward": 100,
+  "suggestedReward": 100,
+  "interstitialReward": 100,
+  "popupReward": 100,
+  "aAdsReward": 100,
+  "videoTime": 12,
+  "textTime": 12,
+  "suggestedTime": 12,
+  "aAdsTime": 12,
+  "minWithdraw": 200000,
+  "referralReward": 500,
+  "milestoneReward": 50000
+}
